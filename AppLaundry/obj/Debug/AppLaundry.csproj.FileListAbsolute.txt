@@ -1,0 +1,16 @@
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\bin\Debug\Mydatabase1.accdb
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\bin\Debug\AppLaundry.exe.config
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\bin\Debug\AppLaundry.exe
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\bin\Debug\AppLaundry.pdb
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.csprojAssemblyReference.cache
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Form1.resources
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Properties.Resources.resources
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.csproj.GenerateResource.cache
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.csproj.CoreCompileInputs.cache
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.exe
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.pdb
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Form2.resources
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Form3.resources
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Form4.resources
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Form5.resources
+C:\Users\Zein Asgaf\source\repos\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Form7.resources
